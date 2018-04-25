@@ -1,3 +1,14 @@
 .container {
-  margin-left: 25%;
+  text-align: center;
+}
+img {
+  max-width: 600px;
+}
+body {
+  background-image: url('/../img/back.png');
+}
+.display {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid black;
+  min-height: 500px;
 }
