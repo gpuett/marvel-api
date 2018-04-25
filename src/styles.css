@@ -6,6 +6,8 @@ img {
 }
 body {
   background-image: url('/../img/back.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .display {
   background-color: rgba(255, 255, 255, 0.8);
